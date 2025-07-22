@@ -70,7 +70,7 @@ public class SimpleCharacterMotor : MonoBehaviour
         {
             movement.y -= gravity * Time.deltaTime;
         }
-        finalMovement = Vector3.Lerp(finalMovement, movement, Time.deltaTime * movementAcceleration);
-        controller.Move(finalMovement * Time.deltaTime);
+        // finalMovement = Vector3.Lerp(finalMovement, movement, Time.deltaTime * movementAcceleration);
+        controller.Move(movement * Time.deltaTime);
     }
 }
