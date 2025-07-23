@@ -7,7 +7,7 @@ This Project we gonna learn about Shader ( both shader graph & shader lab ) with
 
 We Gonna Learn about : 
 
-[![Parallax](https://img.shields.io/badge/Here-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/GodzillaCupu/VFX_Trainning/tree/project/parallax)
+[![Parallax](https://img.shields.io/badge/Parallax-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/GodzillaCupu/VFX_Trainning/tree/project/parallax)
 
 The parallax effect is a visual phenomenon where objects appear to shift positions relative to each other based on the observer's perspective. It's commonly used in web design and video games to create a sense of depth and immersion
 
